@@ -47,7 +47,8 @@ To run this project locally, follow these steps:
 ## API
 The application communicates with the following API endpoint:
  ```bash
-GET /check-connection?host=<host>&port=<port>: Checks the TCP connection to the specified host and port. ```
+GET /check-connection?host=<host>&port=<port>: Checks the TCP connection to the specified host and port. 
+```
 
 
 ## Contributing
